@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AshokUnion
+- 👋 Hi, I’m Ashok Chaulagain
 - 👀 I’m interested in Website development.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Python.
 - 💞️ I’m looking to collaborate on WEB development projects.
